@@ -13,6 +13,7 @@ environment:
 dependencies:
   file_picker:
   csv:
+  pdf:
   path_provider:
   syncfusion_flutter_charts:
   syncfusion_flutter_pdf:
