@@ -11,11 +11,9 @@ environment:
   sdk: '>=3.0.6 <4.0.0'
 
 dependencies:
-  file_picker: ^5.3.2
-  csv: ^5.0.2
-  pdf:
+  file_picker:
+  csv:
   path_provider:
-  flutter_full_pdf_viewer_null_safe:
   syncfusion_flutter_charts:
   syncfusion_flutter_pdf:
   printing:
